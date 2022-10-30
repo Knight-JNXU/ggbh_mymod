@@ -1,0 +1,13 @@
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\编写代码教程\ModMain\bin\Release\ModMain.dll
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\编写代码教程\ModMain\bin\Release\ModMain.pdb
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\编写代码教程\ModMain\obj\Release\ModMain.csproj.AssemblyReference.cache
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\编写代码教程\ModMain\obj\Release\ModMain.csproj.CoreCompileInputs.cache
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\编写代码教程\ModMain\obj\Release\ModMain.dll
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\编写代码教程\ModMain\obj\Release\ModMain.pdb
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\代码编写教程\ModMain\obj\Release\ModMain.csproj.AssemblyReference.cache
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\代码编写教程\ModMain\obj\Release\ModMain.csproj.CoreCompileInputs.cache
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\代码编写教程\ModMain\obj\Release\ModMain.dll
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\代码编写教程\ModMain\obj\Release\ModMain.pdb
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\代码编写教程\ModMain\bin\Release\ModMain.dll
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\代码编写教程\ModMain\bin\Release\ModMain.pdb
+D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\代码编写教程\ModMain\bin\Release\ModMain.xml

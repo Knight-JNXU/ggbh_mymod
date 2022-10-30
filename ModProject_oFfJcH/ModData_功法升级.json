@@ -1,0 +1,67 @@
+{
+  "roleCreateFeature": {
+    "groupName": [],
+    "items": []
+  },
+  "fortuitousEvent": {
+    "cdGroup": {
+      "value": -2018995170
+    },
+    "groupName": [],
+    "items": []
+  },
+  "npcCondition": {
+    "groupName": [],
+    "items": []
+  },
+  "mapPosition": {
+    "groupName": [],
+    "items": []
+  },
+  "worldFortuitousEventBase": {
+    "groupName": [],
+    "items": []
+  },
+  "itemProps": {
+    "groupName": [],
+    "items": []
+  },
+  "taskBase": {
+    "groupName": [],
+    "items": []
+  },
+  "dramaDialogue": {
+    "groupName": [],
+    "items": []
+  },
+  "dramaNpc": {
+    "groupName": [],
+    "items": []
+  },
+  "npcAddWorld": {
+    "groupName": [],
+    "items": []
+  },
+  "schoolSmall": {
+    "groupName": [],
+    "items": []
+  },
+  "schoolInitScale": {
+    "groupName": [],
+    "items": []
+  },
+  "schoolCustom": {
+    "groupName": [],
+    "items": []
+  },
+  "horseModel": {
+    "groupName": [],
+    "items": []
+  },
+  "dungeonBase": {
+    "groupName": [],
+    "items": []
+  },
+  "excelMID": -1239139669,
+  "modNamespace": "MOD_nOeGHb"
+}
